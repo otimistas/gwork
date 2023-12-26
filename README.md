@@ -1,4 +1,4 @@
-# gwork
+# gwork cli
 
 ## Lisence
 

@@ -1,6 +1,6 @@
-# Contributing to Otimista GWork
+# Contributing to Otimista GWork CLI
 
-Thank you for considering contributing to Otimista GWork! By participating in this project, you help make it better for everyone. Here are some guidelines to get you started.
+Thank you for considering contributing to Otimista GWork CLI! By participating in this project, you help make it better for everyone. Here are some guidelines to get you started.
 
 ## Code of Conduct
 
@@ -10,11 +10,11 @@ Please note that this project follows the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ### Reporting Bugs
 
-If you find a bug, please check our [issue tracker](https://github.com/otimistas/gwork/issues) to see if the issue has already been reported. If not, please open a new issue, providing as much detail as possible, including your operating system, Go version, and any relevant error messages.
+If you find a bug, please check our [issue tracker](https://github.com/otimistas/gwork-cli CLI/issues) to see if the issue has already been reported. If not, please open a new issue, providing as much detail as possible, including your operating system, Go version, and any relevant error messages.
 
 ### Suggesting Enhancements
 
-We welcome suggestions for new features or enhancements. Please create an issue on the [issue tracker](https://github.com/otimistas/gwork/issues) with your proposal, detailing the feature and its use case.
+We welcome suggestions for new features or enhancements. Please create an issue on the [issue tracker](https://github.com/otimistas/gwork-cli CLI/issues) with your proposal, detailing the feature and its use case.
 
 ### Pull Requests
 
@@ -31,12 +31,12 @@ We appreciate contributions! If you'd like to contribute code, follow these step
 
 To set up the development environment:
 
-1. Clone the repository: `git clone https://github.com/otimistas/gwork.git`
-2. Install dependencies: `go mod tidy`
+1. Clone the repository: `git clone https://github.com/otimistas/gwork-cli CLI.git`
+2. Install dependencies: `go mod download`
 3. Run tests: `go test ./...`
 
 ## Code Style
 
 Follow the [Go Code Review Comments](https://go.dev/wiki/CodeReviewComments) for style conventions. Keep code clean, well-documented, and maintain backward compatibility whenever possible.
 
-Thank you for contributing to Otimista GWork! We appreciate your time and effort.
+Thank you for contributing to Otimista GWork CLI! We appreciate your time and effort.

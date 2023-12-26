@@ -1,8 +1,8 @@
-# Otimista GWork Code of Conduct
+# Otimista GWork CLI Code of Conduct
 
 ## Introduction
 
-Welcome to Otimista GWork! As a member of our community, you are expected to abide by this Code of Conduct to foster a positive and inclusive environment for collaboration and development.
+Welcome to Otimista GWork CLI! As a member of our community, you are expected to abide by this Code of Conduct to foster a positive and inclusive environment for collaboration and development.
 
 ## Our Principles
 
@@ -14,7 +14,7 @@ Welcome to Otimista GWork! As a member of our community, you are expected to abi
 
 4. **Integrity:** Conduct yourself with integrity. Be honest, transparent, and accountable for your actions.
 
-5. **Professionalism:** Act professionally and responsibly. Remember that your actions reflect on the entire Otimista GWork community.
+5. **Professionalism:** Act professionally and responsibly. Remember that your actions reflect on the entire Otimista GWork CLI community.
 
 ## Expected Behavior
 
@@ -38,14 +38,14 @@ Welcome to Otimista GWork! As a member of our community, you are expected to abi
 
 ## Reporting Violations
 
-If you witness or experience behavior that violates this Code of Conduct, please report it to the Otimista GWork administrators at [contact@otimista.net](mailto:contact@otimista.net). All reports will be treated confidentially.
+If you witness or experience behavior that violates this Code of Conduct, please report it to the Otimista GWork CLI administrators at [contact@otimista.net](mailto:contact@otimista.net). All reports will be treated confidentially.
 
 ## Enforcement
 
-Violations of this Code of Conduct may result in temporary or permanent exclusion from the Otimista GWork community. The severity and consequences of violations will be determined by the administrators.
+Violations of this Code of Conduct may result in temporary or permanent exclusion from the Otimista GWork CLI community. The severity and consequences of violations will be determined by the administrators.
 
 ## Conclusion
 
-By participating in the Otimista GWork community, you agree to uphold this Code of Conduct. Let's work together to create a positive and collaborative environment for everyone.
+By participating in the Otimista GWork CLI community, you agree to uphold this Code of Conduct. Let's work together to create a positive and collaborative environment for everyone.
 
-Thank you for your commitment to the Otimista GWork community!
+Thank you for your commitment to the Otimista GWork CLI community!
